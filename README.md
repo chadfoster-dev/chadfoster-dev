@@ -1,16 +1,33 @@
-## Hi there 👋
+## 👋 Hi, I’m Chad Foster
 
-<!--
-**chadfoster-dev/chadfoster-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 About Me
 
-Here are some ideas to get you started:
+I’m a software developer specializing in React, TypeScript, and modern JavaScript frameworks. I build scalable, user-focused applications with a strong focus on performance, clean code, and maintainability.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I’m passionate about:
+
+Crafting intuitive and responsive user interfaces
+
+Writing elegant, maintainable code with TypeScript
+
+Leveraging the latest web technologies to solve real-world problems
+
+Learning new technologies every day to keep growing as a developer
+
+🛠️ Tech Stack
+
+Languages: TypeScript, JavaScript (ES6+), HTML, CSS/Sass
+
+Frameworks & Libraries: React, Next.js, Node.js, Express
+
+Tools & Platforms: Git, GitHub, Vercel, AWS, Google Cloud
+
+Databases: PostgreSQL, MongoDB, MySQL
+
+Other: REST APIs, GraphQL, CI/CD workflows
+
+🌱 Currently Learning
+
+Cloud engineering (AWS)
+
+Python
