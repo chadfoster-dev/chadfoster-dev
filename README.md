@@ -10,8 +10,6 @@
 
 <br/><br/>
 
-<img src="https://img.shields.io/badge/Open_to_Opportunities-2f81f7?style=flat-square" alt="" />
-&nbsp;&nbsp;
 <img src="https://komarev.com/ghpvc/?username=chadfoster-dev&style=flat-square&color=161b22&label=views" alt="Views" />
 
 <br/><br/>
