@@ -9,6 +9,7 @@
 <br/>
 
 <a href="mailto:fosterchad95@gmail.com"><img alt="Email" src="https://img.shields.io/badge/Email-000000.svg?style=for-the-badge&logo=gmail&labelColor=000"></a>
+<a href="https://www.linkedin.com/in/chadfost/"><img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-000000.svg?style=for-the-badge&logo=linkedin&labelColor=000"></a>
 <a href="https://github.com/chadfoster-dev"><img alt="GitHub" src="https://img.shields.io/badge/GitHub-000000.svg?style=for-the-badge&logo=github&labelColor=000"></a>
 
 </div>
