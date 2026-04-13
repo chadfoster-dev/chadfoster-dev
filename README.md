@@ -63,22 +63,48 @@ Full-stack monorepo with RAG-powered trail recommendations, interactive Mapbox m
 </tr>
 </table>
 
-<div align="center">
+<table>
+<tr>
+<td width="50%" valign="top">
 
-<a href="https://github.com/chadfoster-dev/kanban">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chadfoster-dev&repo=kanban&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=2f81f7" alt="Kanban" />
-</a>
-<a href="https://github.com/chadfoster-dev/Messenger">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chadfoster-dev&repo=Messenger&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=2f81f7" alt="Messenger" />
-</a>
-<a href="https://github.com/chadfoster-dev/e-commerce-admin">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chadfoster-dev&repo=e-commerce-admin&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=2f81f7" alt="E-Commerce Admin" />
-</a>
-<a href="https://github.com/chadfoster-dev/e-commerce-store">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=chadfoster-dev&repo=e-commerce-store&hide_border=true&bg_color=0d1117&title_color=e6edf3&text_color=8b949e&icon_color=2f81f7" alt="E-Commerce Store" />
-</a>
+<h3><a href="https://github.com/chadfoster-dev/kanban">Kanban</a></h3>
 
-</div>
+Full-stack task management board with drag-and-drop, OAuth authentication, and real-time updates.
+
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=e6edf3" /> <img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=e6edf3" /> <img src="https://img.shields.io/badge/OAuth-0d1117?style=flat-square&logoColor=e6edf3" /> <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/chadfoster-dev/Messenger">Messenger</a></h3>
+
+Real-time messaging app with conversations, read receipts, and online status indicators.
+
+<img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=e6edf3" /> <img src="https://img.shields.io/badge/MongoDB-0d1117?style=flat-square&logo=mongodb&logoColor=47A248" /> <img src="https://img.shields.io/badge/Prisma-0d1117?style=flat-square&logo=prisma&logoColor=e6edf3" /> <img src="https://img.shields.io/badge/Tailwind-0d1117?style=flat-square&logo=tailwindcss&logoColor=06B6D4" />
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/chadfoster-dev/e-commerce-admin">E-Commerce Admin</a></h3>
+
+Admin dashboard for managing products, orders, and store settings with analytics.
+
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=e6edf3" /> <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=e6edf3" />
+
+</td>
+<td width="50%" valign="top">
+
+<h3><a href="https://github.com/chadfoster-dev/e-commerce-store">E-Commerce Store</a></h3>
+
+Customer-facing storefront paired with the admin dashboard. Product browsing, cart, and checkout.
+
+<img src="https://img.shields.io/badge/TypeScript-0d1117?style=flat-square&logo=typescript&logoColor=3178C6" /> <img src="https://img.shields.io/badge/Next.js-0d1117?style=flat-square&logo=next.js&logoColor=e6edf3" /> <img src="https://img.shields.io/badge/Vercel-0d1117?style=flat-square&logo=vercel&logoColor=e6edf3" />
+
+</td>
+</tr>
+</table>
 
 <br/>
 
