@@ -25,7 +25,7 @@ I build production systems that real people depend on — from **multi-tenant Sa
 <tr>
 <td width="50%" valign="top">
 
-### Homefront
+### Homefront &nbsp;<a href="https://homefront.pro"><img src="https://img.shields.io/badge/Live%20%E2%86%97-000.svg?style=flat-square&labelColor=000" alt="Live" /></a>
 
 **Multi-tenant SaaS client portal for home service contractors**
 
