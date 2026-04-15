@@ -4,7 +4,7 @@
 
 # Chad Foster
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist&weight=400&size=18&duration=2800&pause=1000&color=666666&center=true&vCenter=true&repeat=true&width=540&height=28&lines=Full-Stack+%2B+AI+Engineer+%E2%80%A2+Atlanta%2C+GA;Building+Multi-Tenant+SaaS+%26+AI+Products;TypeScript+%E2%80%A2+Python+%E2%80%A2+Next.js+%E2%80%A2+AWS" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Geist&weight=400&size=18&duration=2800&pause=1000&color=666666&center=true&vCenter=true&repeat=true&width=540&height=28&lines=Full-Stack+Engineer+%E2%80%A2+Atlanta%2C+GA;Building+Multi-Tenant+SaaS+%26+AI+Products;TypeScript+%E2%80%A2+Python+%E2%80%A2+Next.js+%E2%80%A2+AWS" alt="Typing SVG" /></a>
 
 <br/>
 
